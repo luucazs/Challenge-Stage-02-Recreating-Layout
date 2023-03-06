@@ -16,9 +16,9 @@ Desafio Estágio 02: Recriando Layout <br/>
 
 <br>
 
-<p align="center">
-  <img alt="projeto recriando layout" src="./github/preview.png" width="100%">
-</p>
+<div align="center">
+  <img alt="projeto recriando layout" src="./assets/preview.png" width="100%">
+</div>
 
 ## 🚀 Tecnologias
 
